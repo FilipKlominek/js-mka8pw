@@ -59,6 +59,7 @@ let distruibuteGold = function (array) {
         array.pop;
       }
     }
+    petrsTrun = -petrsTrun;
   }
   console.log([petr, pavel]);
 };
